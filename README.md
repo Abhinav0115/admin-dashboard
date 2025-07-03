@@ -7,6 +7,7 @@ A modern, responsive admin dashboard built with **React**, **Vite**, and **Tailw
 -   [Features](#features)
 -   [Tech Stack](#tech-stack)
 -   [Getting Started](#getting-started)
+-   [Screenshot](#screenshot)
 -   [Usage Example](#usage-example)
 -   [Project Structure](#project-structure)
 -   [Customization](#customization)
