@@ -2,6 +2,8 @@
 
 A modern, responsive admin dashboard built with **React**, **Vite**, and **Tailwind CSS**. This dashboard provides a comprehensive overview of business metrics, analytics, sales, orders, products, users, and settings, featuring interactive charts and a clean UI.
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://dashboard-adm.netlify.app/)
+
 ## Table of Contents
 
 -   [Features](#features)
